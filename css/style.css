@@ -946,6 +946,13 @@ span {
     }
 }
 
+.detail {
+
+    font-style: var(--white-color);
+    font-weight: bold;
+    font-size: medium;
+}
+
 @media (max-width: 365px) {
     .about-img img {
         width: 90vw;
